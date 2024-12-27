@@ -69,17 +69,6 @@ La DApp debe mostrar el estado del juego, incluyendo:
 
 
 ## Rubrica de Evaluación
-Criterio	Descripción	Puntuación
-Integración con Wallet	Conexión exitosa con MetaMask y/o otras wallets.	0-10
-Diseño de la DApp	Diseño atractivo y funcional que se asemeje a aplicaciones DApp.	0-10
-Creatividad en la Interfaz	Innovación y originalidad en el diseño de la interfaz de usuario.	0-10
-Interacción del Usuario	Facilidad de uso para realizar apuestas y seleccionar números.	0-10
-Validación de Campos	Implementación de validaciones adecuadas en los campos de entrada.	0-10
-Dashboard de Estado del Juego	Presentación clara del estado del juego y ganadores.	0-10
-Monitoreo de Eventos	Implementación de monitoreo de eventos del contrato para actualizaciones rápidas.	0-5
-Despliegue en Testnet	Contrato desplegado en una testnet para pruebas públicas.	0-5
-Despliegue de la DApp	DApp desplegada en Vercel u otro servicio de nube gratuito.	0-5
-Puntuación Total: 0-75
 
 
 | Criterio                           | Descripción                                                                 | Puntuación |
